@@ -2,3 +2,5 @@ Hello my friends
 How are you?
 I am ok.
 and you?
+I am ok too.
+What are you doing?
